@@ -1,5 +1,6 @@
 ## Blog-Backend-REST-API-NestJS-Prisma
 
+[⊙](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
 A simple backend REST API for a blog built using NestJS, Prisma, PostgreSQL and Swagger.
 
 <p align="center">
@@ -25,6 +26,7 @@ A simple backend REST API for a blog built using NestJS, Prisma, PostgreSQL and 
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+
 
 ## Technologies Used :
 
