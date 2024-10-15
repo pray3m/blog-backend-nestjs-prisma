@@ -11,6 +11,10 @@ export class ArticlesService {
     return "This action adds a new article";
   }
 
+  findDrafts() {
+    return this.prisma.article.findMany({ where: { isPublished: false } });
+  }
+
   findAll() {
     return this.prisma.article.findMany({ where: { isPublished: true } });
   }
